@@ -1,8 +1,6 @@
 line1 in file2
-<<<<<<< HEAD
 this line add by irfan
 this line also add by irfan
-=======
 this line add by usman in file2
 this line also add by usman in file2
->>>>>>> usman
+this also new line add by master
